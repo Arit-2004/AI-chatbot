@@ -1,4 +1,4 @@
-const API_KEY = "";
+const API_KEY = ""AIzaSyAdLsWbMNJZKtFgxi3ZlJb2p6tq-w3_Duw";";
 const API_URL = `{API_KEY}`;
 
 const chatMessages = document.getElementById('chat-messages');
